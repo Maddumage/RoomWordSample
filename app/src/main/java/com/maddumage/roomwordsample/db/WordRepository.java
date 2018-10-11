@@ -20,7 +20,7 @@ public class WordRepository {
         words = wordDao.getAllWords();
     }
 
-    LiveData<List<Word>> getAllWords() {
+    public LiveData<List<Word>> getAllWords() {
         return words;
     }
 
