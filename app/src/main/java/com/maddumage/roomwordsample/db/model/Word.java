@@ -1,4 +1,4 @@
-package com.maddumage.roomwordsample.model;
+package com.maddumage.roomwordsample.db.model;
 
 import android.arch.persistence.room.ColumnInfo;
 import android.arch.persistence.room.Entity;
